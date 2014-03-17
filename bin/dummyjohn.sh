@@ -4,8 +4,8 @@
 
 # You have to SET the DummyJohn installation directory here
 
-DUMMYJOHN_DIR="somewhere"
-DUMMYJOHN_USER="somebody"
+DUMMYJOHN_DIR="YOUR_DUMMYJOHN_INSTALLATION_PATH"
+DUMMYJOHN_USER="USER_YOU_WANT_DUMMYJOHN_RUN_WITH"
 
 usage() {
 	echo "Usage: `basename $0`: <start|stop|status>"
