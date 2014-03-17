@@ -1,2 +1,0 @@
-Placeholder, because Github does not allow empty directories
-
