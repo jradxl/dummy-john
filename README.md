@@ -11,4 +11,5 @@ It is github's release URL (i.e. https://github.com/jradxl/dummyjohn/releases/do
 March 2014
 
 Test update 2015-10-08
+Test update after cloning to Manjaro!
 
